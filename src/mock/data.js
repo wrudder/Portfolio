@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'art.png',
     title: 'Photo Gallery - Three.js',
-    info: 'A Virtual Art Gallery built for a photography business. This project is currently being used in a photography business!',
+    info: 'A Virtual Photo Gallery currently being used in a photography business!',
     info2: '',
     url: 'https://wrudder.github.io/FinalProject/',
     repo: 'https://github.com/wrudder/FinalProject', // if no repo, the button will not show up
@@ -45,7 +45,7 @@ export const projectsData = [
     url: 'https://serene-plains-76920.herokuapp.com/posts',
     repo: 'https://github.com/wrudder/Project1', // if no repo, the button will not show up
   },
-  
+
   {
     id: nanoid(),
     img: '8ball.png',
@@ -55,7 +55,6 @@ export const projectsData = [
     url: 'https://cullsgit.github.io/games/',
     repo: 'https://github.com/CullsGit/games', // if no repo, the button will not show up
   },
-
 
   {
     id: nanoid(),
