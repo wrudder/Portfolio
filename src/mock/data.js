@@ -35,15 +35,7 @@ export const projectsData = [
     url: 'https://wrudder.github.io/FinalProject/',
     repo: 'https://github.com/wrudder/FinalProject', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: '8ball.png',
-    title: '8ball Pool Game - Phaser2',
-    info: 'This game was built with Phaser 2 as part of a group project, each of us created our own game. Javascript was the language used to create the project.',
-    info2: '',
-    url: 'https://cullsgit.github.io/games/',
-    repo: 'https://github.com/CullsGit/games', // if no repo, the button will not show up
-  },
+
   {
     id: nanoid(),
     img: 'snippet1.png',
@@ -53,6 +45,17 @@ export const projectsData = [
     url: 'https://serene-plains-76920.herokuapp.com/posts',
     repo: 'https://github.com/wrudder/Project1', // if no repo, the button will not show up
   },
+  
+  {
+    id: nanoid(),
+    img: '8ball.png',
+    title: '8ball Pool Game - Phaser2',
+    info: 'This game was built with Phaser 2 as part of a group project, each of us created our own game. Javascript was the language used to create the project.',
+    info2: '',
+    url: 'https://cullsgit.github.io/games/',
+    repo: 'https://github.com/CullsGit/games', // if no repo, the button will not show up
+  },
+
 
   {
     id: nanoid(),
